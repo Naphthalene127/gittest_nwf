@@ -1,1 +1,2 @@
 second files need first lines
+second files have second lines

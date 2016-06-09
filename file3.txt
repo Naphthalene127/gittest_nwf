@@ -2,4 +2,9 @@ I have made a third file
 add new line
 adding another line
 I am the coordinator
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3fa7749d2556415037ee2e67589b2d80b8d1cd36
+here is what I added 
+>>>>>>> 908d3cd2a8c4c15f35b60110aa9afd92e38b88e9

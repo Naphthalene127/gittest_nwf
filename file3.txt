@@ -1,2 +1,3 @@
 I have made a third file
 add new line
+adding another line

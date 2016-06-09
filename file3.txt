@@ -1,3 +1,7 @@
 I have made a third file
 add new line
+<<<<<<< HEAD
 adding another line
+=======
+I am the coordinator
+>>>>>>> 3fa7749d2556415037ee2e67589b2d80b8d1cd36
